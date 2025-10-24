@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ulcer_Detecting_Program", "Ulcer_Detecting_Program\Ulcer_Detecting_Program.csproj", "{C6287DAB-FFBB-4C2D-894B-418114D9AAA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6287DAB-FFBB-4C2D-894B-418114D9AAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6287DAB-FFBB-4C2D-894B-418114D9AAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6287DAB-FFBB-4C2D-894B-418114D9AAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6287DAB-FFBB-4C2D-894B-418114D9AAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3242F5E-AA19-4424-909D-63D190F99B67}
+	EndGlobalSection
+EndGlobal
